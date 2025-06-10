@@ -21,3 +21,5 @@ Instructions on how to view or clone the project.
 
 ## Author
 Your name and a link to your GitHub profile.
+
+![Screenshot](screenshot.png)
